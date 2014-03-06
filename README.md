@@ -1,4 +1,0 @@
-UDK
-===
-
-Assets and Maps
